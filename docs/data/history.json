@@ -6,30 +6,16 @@
       "tickets": {
         "⚡ TARIF 23:59 EARLY RAVER": [
           {
-            "timestamp": "2026-06-01T21:06:47+00:00",
+            "timestamp": "2026-06-01T21:51:49+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          },
-          {
-            "timestamp": "2026-06-01T21:19:14+00:00",
-            "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ],
         "⚡TICKET TARIF ABONNÉ SHOTGUN": [
           {
-            "timestamp": "2026-06-01T21:06:47+00:00",
-            "available_count": 2,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:19:14+00:00",
+            "timestamp": "2026-06-01T21:51:49+00:00",
             "available_count": 2,
             "ok": true,
             "error": null,
@@ -38,18 +24,11 @@
         ],
         "⚡TICKET TARIF LAST CHANCE": [
           {
-            "timestamp": "2026-06-01T21:06:47+00:00",
-            "available_count": 1000,
+            "timestamp": "2026-06-01T21:51:49+00:00",
+            "available_count": 1786,
             "ok": true,
             "error": null,
-            "warning": "MAX_CLICKS atteint"
-          },
-          {
-            "timestamp": "2026-06-01T21:19:14+00:00",
-            "available_count": 1000,
-            "ok": true,
-            "error": null,
-            "warning": "MAX_CLICKS atteint"
+            "warning": null
           }
         ]
       }
@@ -60,30 +39,16 @@
       "tickets": {
         "⚡ TARIF 23:59 EARLY RAVER": [
           {
-            "timestamp": "2026-06-01T21:08:13+00:00",
+            "timestamp": "2026-06-01T21:54:40+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          },
-          {
-            "timestamp": "2026-06-01T21:20:39+00:00",
-            "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ],
         "⚡ TARIF 23:59 LOYALTY": [
           {
-            "timestamp": "2026-06-01T21:08:13+00:00",
-            "available_count": 2,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:20:39+00:00",
+            "timestamp": "2026-06-01T21:54:40+00:00",
             "available_count": 2,
             "ok": true,
             "error": null,
@@ -92,14 +57,7 @@
         ],
         "⚡TICKET TARIF ABONNÉ SHOTGUN": [
           {
-            "timestamp": "2026-06-01T21:08:13+00:00",
-            "available_count": 2,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:20:39+00:00",
+            "timestamp": "2026-06-01T21:54:40+00:00",
             "available_count": 2,
             "ok": true,
             "error": null,
@@ -108,18 +66,11 @@
         ],
         "⚡TICKET TARIF LAST CHANCE": [
           {
-            "timestamp": "2026-06-01T21:08:13+00:00",
-            "available_count": 1000,
-            "ok": true,
-            "error": null,
-            "warning": "MAX_CLICKS atteint"
-          },
-          {
-            "timestamp": "2026-06-01T21:20:39+00:00",
-            "available_count": 1000,
-            "ok": true,
-            "error": null,
-            "warning": "MAX_CLICKS atteint"
+            "timestamp": "2026-06-01T21:54:40+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Timeout comptage ticket après 120s",
+            "warning": "TIMEOUT_TICKET"
           }
         ]
       }
@@ -130,14 +81,7 @@
       "tickets": {
         "After - entrée valable après 5h": [
           {
-            "timestamp": "2026-06-01T21:07:00+00:00",
-            "available_count": 4,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:19:28+00:00",
+            "timestamp": "2026-06-01T21:52:10+00:00",
             "available_count": 4,
             "ok": true,
             "error": null,
@@ -146,46 +90,25 @@
         ],
         "KM25 Community 🏁": [
           {
-            "timestamp": "2026-06-01T21:07:00+00:00",
+            "timestamp": "2026-06-01T21:52:10+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          },
-          {
-            "timestamp": "2026-06-01T21:19:28+00:00",
-            "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ],
         "KM25 Family 🏎️": [
           {
-            "timestamp": "2026-06-01T21:07:00+00:00",
+            "timestamp": "2026-06-01T21:52:10+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          },
-          {
-            "timestamp": "2026-06-01T21:19:28+00:00",
-            "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ],
         "Late": [
           {
-            "timestamp": "2026-06-01T21:07:00+00:00",
-            "available_count": 4,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:19:28+00:00",
+            "timestamp": "2026-06-01T21:52:10+00:00",
             "available_count": 4,
             "ok": true,
             "error": null,
@@ -194,14 +117,7 @@
         ],
         "Regular": [
           {
-            "timestamp": "2026-06-01T21:07:00+00:00",
-            "available_count": 4,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:19:28+00:00",
+            "timestamp": "2026-06-01T21:52:10+00:00",
             "available_count": 4,
             "ok": true,
             "error": null,
@@ -216,14 +132,7 @@
       "tickets": {
         "__unknown__": [
           {
-            "timestamp": "2026-06-01T21:07:09+00:00",
-            "available_count": null,
-            "ok": false,
-            "error": "Impossible d'ouvrir le panneau billets",
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:19:37+00:00",
+            "timestamp": "2026-06-01T21:52:23+00:00",
             "available_count": null,
             "ok": false,
             "error": "Impossible d'ouvrir le panneau billets",
@@ -238,14 +147,7 @@
       "tickets": {
         "Early": [
           {
-            "timestamp": "2026-06-01T21:05:34+00:00",
-            "available_count": 150,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:16:59+00:00",
+            "timestamp": "2026-06-01T21:49:48+00:00",
             "available_count": 150,
             "ok": true,
             "error": null,
@@ -254,18 +156,11 @@
         ],
         "Regular": [
           {
-            "timestamp": "2026-06-01T21:05:34+00:00",
-            "available_count": 730,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:16:59+00:00",
-            "available_count": 730,
-            "ok": true,
-            "error": null,
-            "warning": null
+            "timestamp": "2026-06-01T21:49:48+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Timeout comptage ticket après 120s",
+            "warning": "TIMEOUT_TICKET"
           }
         ]
       }
@@ -276,30 +171,16 @@
       "tickets": {
         "Early": [
           {
-            "timestamp": "2026-06-01T21:06:31+00:00",
+            "timestamp": "2026-06-01T21:51:21+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          },
-          {
-            "timestamp": "2026-06-01T21:17:56+00:00",
-            "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ],
         "Late": [
           {
-            "timestamp": "2026-06-01T21:06:31+00:00",
-            "available_count": 5,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:17:56+00:00",
+            "timestamp": "2026-06-01T21:51:21+00:00",
             "available_count": 5,
             "ok": true,
             "error": null,
@@ -308,30 +189,16 @@
         ],
         "Regular": [
           {
-            "timestamp": "2026-06-01T21:06:31+00:00",
+            "timestamp": "2026-06-01T21:51:21+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          },
-          {
-            "timestamp": "2026-06-01T21:17:56+00:00",
-            "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ],
         "Very Late": [
           {
-            "timestamp": "2026-06-01T21:06:31+00:00",
-            "available_count": 5,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:17:56+00:00",
+            "timestamp": "2026-06-01T21:51:21+00:00",
             "available_count": 5,
             "ok": true,
             "error": null,
@@ -346,18 +213,11 @@
       "tickets": {
         "PAS DE RÉSERVATION NÉCESSAIRE": [
           {
-            "timestamp": "2026-06-01T21:05:43+00:00",
+            "timestamp": "2026-06-01T21:50:01+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          },
-          {
-            "timestamp": "2026-06-01T21:17:08+00:00",
-            "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ]
       }
@@ -368,14 +228,21 @@
       "tickets": {
         "Prévente - Classique": [
           {
-            "timestamp": "2026-06-01T21:04:02+00:00",
+            "timestamp": "2026-06-01T21:44:47+00:00",
             "available_count": 73,
             "ok": true,
             "error": null,
             "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:15:18+00:00",
+            "timestamp": "2026-06-01T21:47:01+00:00",
+            "available_count": 73,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:55:58+00:00",
             "available_count": 73,
             "ok": true,
             "error": null,
@@ -384,14 +251,21 @@
         ],
         "Prévente - Warehouse Community": [
           {
-            "timestamp": "2026-06-01T21:04:02+00:00",
+            "timestamp": "2026-06-01T21:44:47+00:00",
             "available_count": 1,
             "ok": true,
             "error": null,
             "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:15:18+00:00",
+            "timestamp": "2026-06-01T21:47:01+00:00",
+            "available_count": 1,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:55:58+00:00",
             "available_count": 1,
             "ok": true,
             "error": null,
@@ -406,30 +280,16 @@
       "tickets": {
         "Phase 1 Regular Ticket - Placement libre - Fosse/Gradin": [
           {
-            "timestamp": "2026-06-01T21:06:20+00:00",
+            "timestamp": "2026-06-01T21:51:08+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          },
-          {
-            "timestamp": "2026-06-01T21:17:45+00:00",
-            "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ],
         "Phase 2 Regular Ticket - Placement libre - Fosse/Gradin": [
           {
-            "timestamp": "2026-06-01T21:06:20+00:00",
-            "available_count": 93,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:17:45+00:00",
+            "timestamp": "2026-06-01T21:51:08+00:00",
             "available_count": 93,
             "ok": true,
             "error": null,
@@ -438,30 +298,16 @@
         ],
         "Phase 3 Regular Ticket - Placement libre - Fosse/Gradin": [
           {
-            "timestamp": "2026-06-01T21:06:20+00:00",
+            "timestamp": "2026-06-01T21:51:08+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          },
-          {
-            "timestamp": "2026-06-01T21:17:45+00:00",
-            "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ],
         "Tarif de groupe : 3 Billets - Phase 2 Regular Ticket - Placement libre - Fosse/Gradin": [
           {
-            "timestamp": "2026-06-01T21:06:20+00:00",
-            "available_count": 2,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:17:45+00:00",
+            "timestamp": "2026-06-01T21:51:08+00:00",
             "available_count": 2,
             "ok": true,
             "error": null,
@@ -476,30 +322,16 @@
       "tickets": {
         "Phase 1 Regular Ticket": [
           {
-            "timestamp": "2026-06-01T21:06:04+00:00",
+            "timestamp": "2026-06-01T21:50:52+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          },
-          {
-            "timestamp": "2026-06-01T21:17:29+00:00",
-            "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ],
         "Phase 2 Regular Ticket": [
           {
-            "timestamp": "2026-06-01T21:06:04+00:00",
-            "available_count": 259,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:17:29+00:00",
+            "timestamp": "2026-06-01T21:50:52+00:00",
             "available_count": 259,
             "ok": true,
             "error": null,
@@ -508,30 +340,16 @@
         ],
         "Phase 3 Regular Ticket": [
           {
-            "timestamp": "2026-06-01T21:06:04+00:00",
+            "timestamp": "2026-06-01T21:50:52+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          },
-          {
-            "timestamp": "2026-06-01T21:17:29+00:00",
-            "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ],
         "Tarif de groupe : 3 billets - Phase 2 Regular Ticket": [
           {
-            "timestamp": "2026-06-01T21:06:04+00:00",
-            "available_count": 2,
-            "ok": true,
-            "error": null,
-            "warning": null
-          },
-          {
-            "timestamp": "2026-06-01T21:17:29+00:00",
+            "timestamp": "2026-06-01T21:50:52+00:00",
             "available_count": 2,
             "ok": true,
             "error": null,
@@ -546,50 +364,50 @@
       "tickets": {
         "Tarif - Last chance": [
           {
-            "timestamp": "2026-06-01T21:04:49+00:00",
-            "available_count": 641,
+            "timestamp": "2026-06-01T21:47:11+00:00",
+            "available_count": 626,
             "ok": true,
             "error": null,
             "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:16:10+00:00",
-            "available_count": 639,
-            "ok": true,
-            "error": null,
-            "warning": null
+            "timestamp": "2026-06-01T21:49:23+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Timeout comptage ticket après 120s",
+            "warning": "TIMEOUT_TICKET"
           }
         ],
         "Tarif - Unique": [
           {
-            "timestamp": "2026-06-01T21:04:49+00:00",
+            "timestamp": "2026-06-01T21:47:11+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:16:10+00:00",
+            "timestamp": "2026-06-01T21:49:23+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ],
         "Tarif revente": [
           {
-            "timestamp": "2026-06-01T21:04:49+00:00",
+            "timestamp": "2026-06-01T21:47:11+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:16:10+00:00",
+            "timestamp": "2026-06-01T21:49:23+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           }
         ]
       }
@@ -600,98 +418,140 @@
       "tickets": {
         "Early": [
           {
-            "timestamp": "2026-06-01T21:04:11+00:00",
+            "timestamp": "2026-06-01T21:45:00+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:15:26+00:00",
+            "timestamp": "2026-06-01T21:47:10+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:56:08+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Last chance": [
           {
-            "timestamp": "2026-06-01T21:04:11+00:00",
+            "timestamp": "2026-06-01T21:45:00+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:15:26+00:00",
+            "timestamp": "2026-06-01T21:47:10+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:56:08+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Late": [
           {
-            "timestamp": "2026-06-01T21:04:11+00:00",
+            "timestamp": "2026-06-01T21:45:00+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:15:26+00:00",
+            "timestamp": "2026-06-01T21:47:10+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:56:08+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Regular": [
           {
-            "timestamp": "2026-06-01T21:04:11+00:00",
+            "timestamp": "2026-06-01T21:45:00+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:15:26+00:00",
+            "timestamp": "2026-06-01T21:47:10+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:56:08+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Tarif revente": [
           {
-            "timestamp": "2026-06-01T21:04:11+00:00",
+            "timestamp": "2026-06-01T21:45:00+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:15:26+00:00",
+            "timestamp": "2026-06-01T21:47:10+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:56:08+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Very late": [
           {
-            "timestamp": "2026-06-01T21:04:11+00:00",
+            "timestamp": "2026-06-01T21:45:00+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:15:26+00:00",
+            "timestamp": "2026-06-01T21:47:10+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:56:08+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ]
       }
@@ -702,31 +562,45 @@
       "tickets": {
         "Early": [
           {
-            "timestamp": "2026-06-01T21:03:49+00:00",
+            "timestamp": "2026-06-01T21:44:22+00:00",
             "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          },
-          {
-            "timestamp": "2026-06-01T21:15:05+00:00",
-            "available_count": 0,
-            "ok": true,
-            "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
-          }
-        ],
-        "Late": [
-          {
-            "timestamp": "2026-06-01T21:03:49+00:00",
-            "available_count": 454,
             "ok": true,
             "error": null,
             "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:15:05+00:00",
-            "available_count": 454,
+            "timestamp": "2026-06-01T21:46:35+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:55:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "Late": [
+          {
+            "timestamp": "2026-06-01T21:44:22+00:00",
+            "available_count": 451,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:46:35+00:00",
+            "available_count": 451,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:55:34+00:00",
+            "available_count": 451,
             "ok": true,
             "error": null,
             "warning": null
@@ -734,34 +608,48 @@
         ],
         "Normal": [
           {
-            "timestamp": "2026-06-01T21:03:49+00:00",
+            "timestamp": "2026-06-01T21:44:22+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:15:05+00:00",
+            "timestamp": "2026-06-01T21:46:35+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
-            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:55:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Very Late": [
           {
-            "timestamp": "2026-06-01T21:03:49+00:00",
-            "available_count": 1000,
+            "timestamp": "2026-06-01T21:44:22+00:00",
+            "available_count": 2050,
             "ok": true,
             "error": null,
-            "warning": "MAX_CLICKS atteint"
+            "warning": null
           },
           {
-            "timestamp": "2026-06-01T21:15:05+00:00",
-            "available_count": 1000,
+            "timestamp": "2026-06-01T21:46:35+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Timeout comptage ticket après 120s",
+            "warning": "TIMEOUT_TICKET"
+          },
+          {
+            "timestamp": "2026-06-01T21:55:34+00:00",
+            "available_count": 2050,
             "ok": true,
             "error": null,
-            "warning": "MAX_CLICKS atteint"
+            "warning": null
           }
         ]
       }
