@@ -13,5 +13,7 @@ if git diff --cached --quiet; then
   exit 0
 fi
 
+git pull --rebase origin main
+
 git commit -m "Update Shotgun data"
 git push
