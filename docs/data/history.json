@@ -11,11 +11,53 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:00:35+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:21:24+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:44:29+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "⚡TICKET TARIF ABONNÉ SHOTGUN": [
           {
             "timestamp": "2026-06-01T21:51:49+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:00:35+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:21:24+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:44:29+00:00",
             "available_count": 2,
             "ok": true,
             "error": null,
@@ -29,6 +71,27 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:00:35+00:00",
+            "available_count": 1786,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:21:24+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Timeout comptage ticket après 120s",
+            "warning": "TIMEOUT_TICKET"
+          },
+          {
+            "timestamp": "2026-06-01T22:44:29+00:00",
+            "available_count": 100,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
           }
         ]
       }
@@ -44,11 +107,53 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:01:26+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:22:25+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:45:18+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "⚡ TARIF 23:59 LOYALTY": [
           {
             "timestamp": "2026-06-01T21:54:40+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:01:26+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:22:25+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:45:18+00:00",
             "available_count": 2,
             "ok": true,
             "error": null,
@@ -62,6 +167,27 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:01:26+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:22:25+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:45:18+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "⚡TICKET TARIF LAST CHANCE": [
@@ -71,6 +197,27 @@
             "ok": false,
             "error": "Timeout comptage ticket après 120s",
             "warning": "TIMEOUT_TICKET"
+          },
+          {
+            "timestamp": "2026-06-01T22:01:26+00:00",
+            "available_count": 1870,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:22:25+00:00",
+            "available_count": 1870,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:45:18+00:00",
+            "available_count": 100,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
           }
         ]
       }
@@ -86,11 +233,53 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:00:50+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:21:44+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:44:48+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "KM25 Community 🏁": [
           {
             "timestamp": "2026-06-01T21:52:10+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:00:50+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:21:44+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:44:48+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -104,6 +293,27 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:00:50+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:21:44+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:44:48+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Late": [
@@ -113,11 +323,53 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:00:50+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:21:44+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:44:48+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Regular": [
           {
             "timestamp": "2026-06-01T21:52:10+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:00:50+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:21:44+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:44:48+00:00",
             "available_count": 4,
             "ok": true,
             "error": null,
@@ -137,6 +389,27 @@
             "ok": false,
             "error": "Impossible d'ouvrir le panneau billets",
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:01:00+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Impossible d'ouvrir le panneau billets",
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:21:58+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Impossible d'ouvrir le panneau billets",
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:44:59+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Impossible d'ouvrir le panneau billets",
+            "warning": null
           }
         ]
       }
@@ -152,6 +425,27 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:58:34+00:00",
+            "available_count": 150,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:17:09+00:00",
+            "available_count": 150,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:42:28+00:00",
+            "available_count": 100,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
           }
         ],
         "Regular": [
@@ -161,6 +455,27 @@
             "ok": false,
             "error": "Timeout comptage ticket après 120s",
             "warning": "TIMEOUT_TICKET"
+          },
+          {
+            "timestamp": "2026-06-01T21:58:34+00:00",
+            "available_count": 730,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:17:09+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Timeout comptage ticket après 120s",
+            "warning": "TIMEOUT_TICKET"
+          },
+          {
+            "timestamp": "2026-06-01T22:42:28+00:00",
+            "available_count": 100,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
           }
         ]
       }
@@ -176,11 +491,53 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:00:07+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:19:06+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:43:59+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Late": [
           {
             "timestamp": "2026-06-01T21:51:21+00:00",
+            "available_count": 5,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:00:07+00:00",
+            "available_count": 5,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:19:06+00:00",
+            "available_count": 5,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:43:59+00:00",
             "available_count": 5,
             "ok": true,
             "error": null,
@@ -194,11 +551,53 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:00:07+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:19:06+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:43:59+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Very Late": [
           {
             "timestamp": "2026-06-01T21:51:21+00:00",
+            "available_count": 5,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:00:07+00:00",
+            "available_count": 5,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:19:06+00:00",
+            "available_count": 5,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:43:59+00:00",
             "available_count": 5,
             "ok": true,
             "error": null,
@@ -214,6 +613,27 @@
         "PAS DE RÉSERVATION NÉCESSAIRE": [
           {
             "timestamp": "2026-06-01T21:50:01+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:58:45+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:17:21+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:42:40+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -247,6 +667,34 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:12:24+00:00",
+            "available_count": 73,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:27:33+00:00",
+            "available_count": 73,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:36:57+00:00",
+            "available_count": 73,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:41:14+00:00",
+            "available_count": 73,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Prévente - Warehouse Community": [
@@ -270,6 +718,34 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:12:24+00:00",
+            "available_count": 1,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:27:33+00:00",
+            "available_count": 1,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:36:57+00:00",
+            "available_count": 1,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:41:14+00:00",
+            "available_count": 1,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ]
       }
@@ -285,11 +761,53 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:59:51+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:18:47+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:43:41+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Phase 2 Regular Ticket - Placement libre - Fosse/Gradin": [
           {
             "timestamp": "2026-06-01T21:51:08+00:00",
+            "available_count": 93,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:59:51+00:00",
+            "available_count": 93,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:18:47+00:00",
+            "available_count": 93,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:43:41+00:00",
             "available_count": 93,
             "ok": true,
             "error": null,
@@ -303,11 +821,53 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:59:51+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:18:47+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:43:41+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Tarif de groupe : 3 Billets - Phase 2 Regular Ticket - Placement libre - Fosse/Gradin": [
           {
             "timestamp": "2026-06-01T21:51:08+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:59:51+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:18:47+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:43:41+00:00",
             "available_count": 2,
             "ok": true,
             "error": null,
@@ -327,6 +887,27 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:59:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:18:15+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:43:10+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Phase 2 Regular Ticket": [
@@ -336,6 +917,27 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:59:34+00:00",
+            "available_count": 259,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:18:15+00:00",
+            "available_count": 259,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:43:10+00:00",
+            "available_count": 100,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
           }
         ],
         "Phase 3 Regular Ticket": [
@@ -345,11 +947,53 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:59:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:18:15+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:43:10+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Tarif de groupe : 3 billets - Phase 2 Regular Ticket": [
           {
             "timestamp": "2026-06-01T21:50:52+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:59:34+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:18:15+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:43:10+00:00",
             "available_count": 2,
             "ok": true,
             "error": null,
@@ -376,6 +1020,27 @@
             "ok": false,
             "error": "Timeout comptage ticket après 120s",
             "warning": "TIMEOUT_TICKET"
+          },
+          {
+            "timestamp": "2026-06-01T21:58:13+00:00",
+            "available_count": 626,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:14:34+00:00",
+            "available_count": 620,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:41:51+00:00",
+            "available_count": 100,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
           }
         ],
         "Tarif - Unique": [
@@ -392,6 +1057,27 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:58:13+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:14:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:41:51+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Tarif revente": [
@@ -404,6 +1090,27 @@
           },
           {
             "timestamp": "2026-06-01T21:49:23+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:58:13+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:14:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:41:51+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -437,6 +1144,27 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:12:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:37:06+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:41:24+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Last chance": [
@@ -456,6 +1184,27 @@
           },
           {
             "timestamp": "2026-06-01T21:56:08+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:12:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:37:06+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:41:24+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -483,6 +1232,27 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:12:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:37:06+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:41:24+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Regular": [
@@ -502,6 +1272,27 @@
           },
           {
             "timestamp": "2026-06-01T21:56:08+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:12:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:37:06+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:41:24+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -529,6 +1320,27 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:12:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:37:06+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:41:24+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Very late": [
@@ -548,6 +1360,27 @@
           },
           {
             "timestamp": "2026-06-01T21:56:08+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:12:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:37:06+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:41:24+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -581,6 +1414,34 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:12:00+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:27:07+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:36:32+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:40:48+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Late": [
@@ -604,6 +1465,34 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:12:00+00:00",
+            "available_count": 451,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:27:07+00:00",
+            "available_count": 450,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:36:32+00:00",
+            "available_count": 450,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:40:48+00:00",
+            "available_count": 100,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
           }
         ],
         "Normal": [
@@ -623,6 +1512,34 @@
           },
           {
             "timestamp": "2026-06-01T21:55:34+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:12:00+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:27:07+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:36:32+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:40:48+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -650,6 +1567,34 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T22:12:00+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Timeout comptage ticket après 120s",
+            "warning": "TIMEOUT_TICKET"
+          },
+          {
+            "timestamp": "2026-06-01T22:27:07+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Timeout comptage ticket après 120s",
+            "warning": "TIMEOUT_TICKET"
+          },
+          {
+            "timestamp": "2026-06-01T22:36:32+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Timeout comptage ticket après 300s",
+            "warning": "TIMEOUT_TICKET"
+          },
+          {
+            "timestamp": "2026-06-01T22:40:48+00:00",
+            "available_count": 100,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
           }
         ]
       }
