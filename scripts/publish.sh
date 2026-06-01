@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-cd "$(dirname "$0")/.."
+ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+cd "$ROOT_DIR"
 
 BRANCH="${PUBLISH_BRANCH:-main}"
-PYTHON_BIN="${PYTHON_BIN:-.venv/bin/python}"
+PYTHON_BIN="${PYTHON_BIN:-$ROOT_DIR/.venv/bin/python}"
 
 "$PYTHON_BIN" scripts/export_latest.py
 "$PYTHON_BIN" scripts/export_history.py
