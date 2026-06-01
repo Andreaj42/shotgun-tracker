@@ -4,8 +4,8 @@ import os
 from playwright.async_api import async_playwright
 
 
-DEFAULT_MAX_CLICKS = 0
-DEFAULT_TICKET_TIMEOUT_SECONDS = 120
+DEFAULT_MAX_CLICKS = 2000
+DEFAULT_TICKET_TIMEOUT_SECONDS = 300
 
 
 def get_int_env(name: str, default: int) -> int:
@@ -21,9 +21,10 @@ def get_int_env(name: str, default: int) -> int:
 
 
 JS_COUNT_SCRIPT = """
-async ({ ticketName, delayMs, maxClicks, debug, progressEvery }) => {
+async ({ ticketName, delayMs, maxClicks, debug, progressEvery, ticketTimeoutMs }) => {
   const sleep = ms => new Promise(r => setTimeout(r, ms));
   const norm = s => (s || "").toLowerCase().replace(/\\s+/g, " ").trim();
+  const startedAt = Date.now();
   const isDisabled = button => {
     if (!button) return true;
 
@@ -67,6 +68,16 @@ async ({ ticketName, delayMs, maxClicks, debug, progressEvery }) => {
   let displayedQuantity = null;
 
   while (true) {
+    if (ticketTimeoutMs > 0 && Date.now() - startedAt >= ticketTimeoutMs) {
+      return {
+        ok: false,
+        error: `Timeout comptage ticket après ${Math.round(ticketTimeoutMs / 1000)}s`,
+        warning: "TIMEOUT_TICKET",
+        added: null,
+        displayedQuantity
+      };
+    }
+
     const { plusButton, quantitySpan } = getControls();
     if (!plusButton) {
       const blockText = norm(ticketBlock.innerText);
@@ -326,11 +337,12 @@ async def scrape_event_tickets(event_url: str, debug: bool = False) -> list[dict
                             "maxClicks": max_clicks,
                             "debug": debug,
                             "progressEvery": 100,
+                            "ticketTimeoutMs": ticket_timeout * 1000,
                         },
                     ),
-                    timeout=ticket_timeout,
+                    timeout=ticket_timeout + 10,
                 )
-            except TimeoutError:
+            except asyncio.TimeoutError:
                 result = {
                     "ok": False,
                     "added": None,
