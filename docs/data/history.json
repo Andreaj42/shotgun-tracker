@@ -1,0 +1,770 @@
+{
+  "events": {
+    "https://shotgun.live/fr/events/23-59-beauz-junkie-kid-ardente-fior-ae-lla": {
+      "url": "https://shotgun.live/fr/events/23-59-beauz-junkie-kid-ardente-fior-ae-lla",
+      "organizer": "23-59",
+      "tickets": {
+        "⚡ TARIF 23:59 EARLY RAVER": [
+          {
+            "timestamp": "2026-06-01T21:06:47+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:19:14+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "⚡TICKET TARIF ABONNÉ SHOTGUN": [
+          {
+            "timestamp": "2026-06-01T21:06:47+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:19:14+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "⚡TICKET TARIF LAST CHANCE": [
+          {
+            "timestamp": "2026-06-01T21:06:47+00:00",
+            "available_count": 1000,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
+          },
+          {
+            "timestamp": "2026-06-01T21:19:14+00:00",
+            "available_count": 1000,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
+          }
+        ]
+      }
+    },
+    "https://shotgun.live/fr/events/23-59-open-air-beauz-eskha-istigkeit-b-2-b-glaskeen": {
+      "url": "https://shotgun.live/fr/events/23-59-open-air-beauz-eskha-istigkeit-b-2-b-glaskeen",
+      "organizer": "23-59",
+      "tickets": {
+        "⚡ TARIF 23:59 EARLY RAVER": [
+          {
+            "timestamp": "2026-06-01T21:08:13+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:20:39+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "⚡ TARIF 23:59 LOYALTY": [
+          {
+            "timestamp": "2026-06-01T21:08:13+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:20:39+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "⚡TICKET TARIF ABONNÉ SHOTGUN": [
+          {
+            "timestamp": "2026-06-01T21:08:13+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:20:39+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "⚡TICKET TARIF LAST CHANCE": [
+          {
+            "timestamp": "2026-06-01T21:08:13+00:00",
+            "available_count": 1000,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
+          },
+          {
+            "timestamp": "2026-06-01T21:20:39+00:00",
+            "available_count": 1000,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
+          }
+        ]
+      }
+    },
+    "https://shotgun.live/fr/events/2359-beauz-luxx-schlass-2vine-so-juice-kilometre25": {
+      "url": "https://shotgun.live/fr/events/2359-beauz-luxx-schlass-2vine-so-juice-kilometre25",
+      "organizer": "23-59",
+      "tickets": {
+        "After - entrée valable après 5h": [
+          {
+            "timestamp": "2026-06-01T21:07:00+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:19:28+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "KM25 Community 🏁": [
+          {
+            "timestamp": "2026-06-01T21:07:00+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:19:28+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "KM25 Family 🏎️": [
+          {
+            "timestamp": "2026-06-01T21:07:00+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:19:28+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Late": [
+          {
+            "timestamp": "2026-06-01T21:07:00+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:19:28+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "Regular": [
+          {
+            "timestamp": "2026-06-01T21:07:00+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:19:28+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ]
+      }
+    },
+    "https://shotgun.live/fr/events/2359openairdayandnight": {
+      "url": "https://shotgun.live/fr/events/2359openairdayandnight",
+      "organizer": "23-59",
+      "tickets": {
+        "__unknown__": [
+          {
+            "timestamp": "2026-06-01T21:07:09+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Impossible d'ouvrir le panneau billets",
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:19:37+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Impossible d'ouvrir le panneau billets",
+            "warning": null
+          }
+        ]
+      }
+    },
+    "https://shotgun.live/fr/events/encore-fete-de-la-musique-kirsty-all-night-long": {
+      "url": "https://shotgun.live/fr/events/encore-fete-de-la-musique-kirsty-all-night-long",
+      "organizer": "encore",
+      "tickets": {
+        "Early": [
+          {
+            "timestamp": "2026-06-01T21:05:34+00:00",
+            "available_count": 150,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:16:59+00:00",
+            "available_count": 150,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "Regular": [
+          {
+            "timestamp": "2026-06-01T21:05:34+00:00",
+            "available_count": 730,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:16:59+00:00",
+            "available_count": 730,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ]
+      }
+    },
+    "https://shotgun.live/fr/events/encore-x-23-59-lyon-5": {
+      "url": "https://shotgun.live/fr/events/encore-x-23-59-lyon-5",
+      "organizer": "encore,23-59",
+      "tickets": {
+        "Early": [
+          {
+            "timestamp": "2026-06-01T21:06:31+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:17:56+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Late": [
+          {
+            "timestamp": "2026-06-01T21:06:31+00:00",
+            "available_count": 5,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:17:56+00:00",
+            "available_count": 5,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "Regular": [
+          {
+            "timestamp": "2026-06-01T21:06:31+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:17:56+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Very Late": [
+          {
+            "timestamp": "2026-06-01T21:06:31+00:00",
+            "available_count": 5,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:17:56+00:00",
+            "available_count": 5,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ]
+      }
+    },
+    "https://shotgun.live/fr/events/encore-x-23-59-open-air-fete-de-la-musique-gratuit": {
+      "url": "https://shotgun.live/fr/events/encore-x-23-59-open-air-fete-de-la-musique-gratuit",
+      "organizer": "encore",
+      "tickets": {
+        "PAS DE RÉSERVATION NÉCESSAIRE": [
+          {
+            "timestamp": "2026-06-01T21:05:43+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:17:08+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ]
+      }
+    },
+    "https://shotgun.live/fr/events/face-2-face-nantes": {
+      "url": "https://shotgun.live/fr/events/face-2-face-nantes",
+      "organizer": "encore",
+      "tickets": {
+        "Prévente - Classique": [
+          {
+            "timestamp": "2026-06-01T21:04:02+00:00",
+            "available_count": 73,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:15:18+00:00",
+            "available_count": 73,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "Prévente - Warehouse Community": [
+          {
+            "timestamp": "2026-06-01T21:04:02+00:00",
+            "available_count": 1,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:15:18+00:00",
+            "available_count": 1,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ]
+      }
+    },
+    "https://shotgun.live/fr/events/holy-priest-nantes-the-holy-shit-show": {
+      "url": "https://shotgun.live/fr/events/holy-priest-nantes-the-holy-shit-show",
+      "organizer": "encore",
+      "tickets": {
+        "Phase 1 Regular Ticket - Placement libre - Fosse/Gradin": [
+          {
+            "timestamp": "2026-06-01T21:06:20+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:17:45+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Phase 2 Regular Ticket - Placement libre - Fosse/Gradin": [
+          {
+            "timestamp": "2026-06-01T21:06:20+00:00",
+            "available_count": 93,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:17:45+00:00",
+            "available_count": 93,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "Phase 3 Regular Ticket - Placement libre - Fosse/Gradin": [
+          {
+            "timestamp": "2026-06-01T21:06:20+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:17:45+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Tarif de groupe : 3 Billets - Phase 2 Regular Ticket - Placement libre - Fosse/Gradin": [
+          {
+            "timestamp": "2026-06-01T21:06:20+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:17:45+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ]
+      }
+    },
+    "https://shotgun.live/fr/events/holy-priest-vienne-the-holy-shit-show": {
+      "url": "https://shotgun.live/fr/events/holy-priest-vienne-the-holy-shit-show",
+      "organizer": "encore",
+      "tickets": {
+        "Phase 1 Regular Ticket": [
+          {
+            "timestamp": "2026-06-01T21:06:04+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:17:29+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Phase 2 Regular Ticket": [
+          {
+            "timestamp": "2026-06-01T21:06:04+00:00",
+            "available_count": 259,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:17:29+00:00",
+            "available_count": 259,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "Phase 3 Regular Ticket": [
+          {
+            "timestamp": "2026-06-01T21:06:04+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:17:29+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Tarif de groupe : 3 billets - Phase 2 Regular Ticket": [
+          {
+            "timestamp": "2026-06-01T21:06:04+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:17:29+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ]
+      }
+    },
+    "https://shotgun.live/fr/events/outworld-lyon": {
+      "url": "https://shotgun.live/fr/events/outworld-lyon",
+      "organizer": "encore",
+      "tickets": {
+        "Tarif - Last chance": [
+          {
+            "timestamp": "2026-06-01T21:04:49+00:00",
+            "available_count": 641,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:16:10+00:00",
+            "available_count": 639,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "Tarif - Unique": [
+          {
+            "timestamp": "2026-06-01T21:04:49+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:16:10+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Tarif revente": [
+          {
+            "timestamp": "2026-06-01T21:04:49+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:16:10+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ]
+      }
+    },
+    "https://shotgun.live/fr/events/paul-kalkbrenner-encore-vienne": {
+      "url": "https://shotgun.live/fr/events/paul-kalkbrenner-encore-vienne",
+      "organizer": "encore",
+      "tickets": {
+        "Early": [
+          {
+            "timestamp": "2026-06-01T21:04:11+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:15:26+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Last chance": [
+          {
+            "timestamp": "2026-06-01T21:04:11+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:15:26+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Late": [
+          {
+            "timestamp": "2026-06-01T21:04:11+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:15:26+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Regular": [
+          {
+            "timestamp": "2026-06-01T21:04:11+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:15:26+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Tarif revente": [
+          {
+            "timestamp": "2026-06-01T21:04:11+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:15:26+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Very late": [
+          {
+            "timestamp": "2026-06-01T21:04:11+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:15:26+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ]
+      }
+    },
+    "https://shotgun.live/fr/events/photon-lyon": {
+      "url": "https://shotgun.live/fr/events/photon-lyon",
+      "organizer": "encore",
+      "tickets": {
+        "Early": [
+          {
+            "timestamp": "2026-06-01T21:03:49+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:15:05+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Late": [
+          {
+            "timestamp": "2026-06-01T21:03:49+00:00",
+            "available_count": 454,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-01T21:15:05+00:00",
+            "available_count": 454,
+            "ok": true,
+            "error": null,
+            "warning": null
+          }
+        ],
+        "Normal": [
+          {
+            "timestamp": "2026-06-01T21:03:49+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          },
+          {
+            "timestamp": "2026-06-01T21:15:05+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": "Bouton + introuvable, ticket probablement non achetable ou sold-out"
+          }
+        ],
+        "Very Late": [
+          {
+            "timestamp": "2026-06-01T21:03:49+00:00",
+            "available_count": 1000,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
+          },
+          {
+            "timestamp": "2026-06-01T21:15:05+00:00",
+            "available_count": 1000,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
+          }
+        ]
+      }
+    }
+  }
+}

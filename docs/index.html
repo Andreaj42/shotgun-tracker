@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shotgun Tracker -  Fuck FOMO, Fuck Shlømo</title>
+  <link rel="stylesheet" href="./styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <main class="container">
+    <header class="header">
+      <div>
+        <h1>Shotgun Tracker</h1>
+        <p>Suivi des places restantes sur les événements Shotgun.</p>
+      </div>
+      <div id="last-update" class="last-update">—</div>
+    </header>
+
+    <section class="controls">
+      <label>
+        Organisateur
+        <select id="organizer-select"></select>
+      </label>
+
+      <label>
+        Événement
+        <select id="event-select"></select>
+      </label>
+    </section>
+
+    <section id="summary" class="summary"></section>
+
+    <section class="chart-card">
+      <h2>Historique des places restantes</h2>
+      <canvas id="availability-chart"></canvas>
+    </section>
+
+    <section class="table-card">
+      <h2>Dernières mesures</h2>
+      <div id="latest-table"></div>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>
