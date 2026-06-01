@@ -19,6 +19,8 @@ body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   background: var(--bg);
   color: var(--text);
+  line-height: 1.5;
+  overflow-x: hidden;
 }
 
 .container {
@@ -37,6 +39,16 @@ body {
 
 h1, h2, p {
   margin-top: 0;
+}
+
+h1 {
+  font-size: clamp(2rem, 5vw, 3rem);
+  line-height: 1.05;
+  margin-bottom: 8px;
+}
+
+h2 {
+  font-size: clamp(1.15rem, 3vw, 1.45rem);
 }
 
 .header p {
@@ -67,10 +79,12 @@ label {
 select {
   width: 100%;
   padding: 12px;
-  border-radius: 12px;
+  min-height: 46px;
+  border-radius: 10px;
   border: 1px solid var(--border);
   background: var(--card);
   color: var(--text);
+  font: inherit;
 }
 
 .summary {
@@ -83,8 +97,9 @@ select {
 .metric {
   background: var(--card);
   border: 1px solid var(--border);
-  border-radius: 16px;
+  border-radius: 8px;
   padding: 18px;
+  min-width: 0;
 }
 
 .metric .label {
@@ -96,15 +111,26 @@ select {
   font-size: 2rem;
   font-weight: 700;
   margin-top: 8px;
+  overflow-wrap: anywhere;
 }
 
 .chart-card,
 .table-card {
   background: var(--card);
   border: 1px solid var(--border);
-  border-radius: 18px;
+  border-radius: 8px;
   padding: 20px;
   margin-bottom: 24px;
+}
+
+.chart-card {
+  min-height: 420px;
+}
+
+#availability-chart {
+  width: 100%;
+  height: 340px !important;
+  max-height: 340px;
 }
 
 table {
@@ -141,13 +167,144 @@ th {
 }
 
 @media (max-width: 720px) {
+  .container {
+    width: min(100% - 20px, 1100px);
+    padding: 18px 0;
+  }
+
   .header,
   .controls {
     grid-template-columns: 1fr;
     display: grid;
   }
 
+  .header {
+    gap: 14px;
+    margin-bottom: 20px;
+  }
+
+  .header p {
+    margin-bottom: 0;
+  }
+
   .last-update {
+    justify-self: start;
+    width: 100%;
+    padding: 8px 10px;
+    border-radius: 8px;
+    font-size: 0.9rem;
     white-space: normal;
+  }
+
+  .controls {
+    gap: 12px;
+    margin-bottom: 18px;
+  }
+
+  label {
+    gap: 6px;
+  }
+
+  select {
+    min-height: 50px;
+    padding: 10px;
+    font-size: 1rem;
+  }
+
+  .summary {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    margin-bottom: 18px;
+  }
+
+  .metric {
+    padding: 14px;
+  }
+
+  .metric .value {
+    font-size: 1.45rem;
+  }
+
+  .chart-card,
+  .table-card {
+    padding: 14px;
+    margin-bottom: 18px;
+  }
+
+  .chart-card {
+    min-height: 360px;
+  }
+
+  #availability-chart {
+    height: 280px !important;
+    max-height: 280px;
+  }
+
+  table,
+  thead,
+  tbody,
+  tr,
+  th {
+    display: block;
+  }
+
+  thead {
+    display: none;
+  }
+
+  tbody {
+    display: grid;
+    gap: 10px;
+  }
+
+  tr {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--card-2);
+    padding: 10px;
+  }
+
+  td {
+    display: grid;
+    grid-template-columns: 82px minmax(0, 1fr);
+    gap: 10px;
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    overflow-wrap: anywhere;
+  }
+
+  td:last-child {
+    border-bottom: 0;
+  }
+
+  td::before {
+    content: attr(data-label);
+    color: var(--muted);
+    font-weight: 600;
+  }
+}
+
+@media (max-width: 420px) {
+  .container {
+    width: min(100% - 14px, 1100px);
+    padding-top: 14px;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  .chart-card {
+    min-height: 330px;
+  }
+
+  #availability-chart {
+    height: 250px !important;
+    max-height: 250px;
+  }
+
+  td {
+    grid-template-columns: 72px minmax(0, 1fr);
+    gap: 8px;
   }
 }

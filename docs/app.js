@@ -222,14 +222,18 @@ function renderChart() {
     },
     options: {
       responsive: true,
+      maintainAspectRatio: false,
       interaction: {
         mode: "index",
         intersect: false
       },
       plugins: {
         legend: {
+          position: "bottom",
           labels: {
-            color: "#f2f4f8"
+            color: "#f2f4f8",
+            boxWidth: 12,
+            boxHeight: 12
           }
         },
         tooltip: {
@@ -287,11 +291,11 @@ function renderLatestTable() {
 
     return `
       <tr>
-        <td>${escapeHtml(ticket.name)}</td>
-        <td>${formatCount(ticket.available_count)}</td>
-        <td class="${status.className}">${status.text}</td>
-        <td>${escapeHtml(status.message)}</td>
-        <td>${formatDate(ticket.scraped_at)}</td>
+        <td data-label="Ticket">${escapeHtml(ticket.name)}</td>
+        <td data-label="Places">${formatCount(ticket.available_count)}</td>
+        <td data-label="Statut" class="${status.className}">${status.text}</td>
+        <td data-label="Message">${escapeHtml(status.message)}</td>
+        <td data-label="Mesure">${formatDate(ticket.scraped_at)}</td>
       </tr>
     `;
   }).join("");
