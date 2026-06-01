@@ -73,7 +73,7 @@ async ({ ticketName, delayMs, maxClicks, debug, progressEvery, ticketTimeoutMs }
         ok: false,
         error: `Timeout comptage ticket après ${Math.round(ticketTimeoutMs / 1000)}s`,
         warning: "TIMEOUT_TICKET",
-        added: null,
+        added,
         displayedQuantity
       };
     }
