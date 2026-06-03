@@ -44404,6 +44404,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-03T17:49:18+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Late": [
@@ -45488,6 +45495,13 @@
           {
             "timestamp": "2026-06-03T17:29:46+00:00",
             "available_count": 373,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-03T17:49:18+00:00",
+            "available_count": 372,
             "ok": true,
             "error": null,
             "warning": null
@@ -46578,6 +46592,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-03T17:49:18+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Very Late": [
@@ -47661,6 +47682,13 @@
           },
           {
             "timestamp": "2026-06-03T17:29:46+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Timeout comptage ticket après 240s",
+            "warning": "TIMEOUT_TICKET"
+          },
+          {
+            "timestamp": "2026-06-03T17:49:18+00:00",
             "available_count": null,
             "ok": false,
             "error": "Timeout comptage ticket après 240s",

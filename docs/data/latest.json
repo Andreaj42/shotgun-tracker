@@ -472,15 +472,15 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T17:29:46+00:00"
+          "scraped_at": "2026-06-03T17:49:18+00:00"
         },
         {
           "name": "Late",
-          "available_count": 373,
+          "available_count": 372,
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T17:29:46+00:00"
+          "scraped_at": "2026-06-03T17:49:18+00:00"
         },
         {
           "name": "Normal",
@@ -488,7 +488,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T17:29:46+00:00"
+          "scraped_at": "2026-06-03T17:49:18+00:00"
         },
         {
           "name": "Very Late",
@@ -496,7 +496,7 @@
           "ok": false,
           "error": "Timeout comptage ticket après 240s",
           "warning": "TIMEOUT_TICKET",
-          "scraped_at": "2026-06-03T17:29:46+00:00"
+          "scraped_at": "2026-06-03T17:49:18+00:00"
         },
         {
           "name": "__unknown__",
