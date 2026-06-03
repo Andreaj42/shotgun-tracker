@@ -10,7 +10,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:45:55+00:00"
+          "scraped_at": "2026-06-03T07:59:07+00:00"
         },
         {
           "name": "⚡TICKET TARIF ABONNÉ SHOTGUN",
@@ -18,7 +18,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:45:55+00:00"
+          "scraped_at": "2026-06-03T07:59:07+00:00"
         },
         {
           "name": "⚡TICKET TARIF LAST CHANCE",
@@ -26,7 +26,7 @@
           "ok": true,
           "error": null,
           "warning": "MAX_CLICKS atteint",
-          "scraped_at": "2026-06-03T07:45:55+00:00"
+          "scraped_at": "2026-06-03T07:59:07+00:00"
         }
       ]
     },
@@ -40,7 +40,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:50:51+00:00"
+          "scraped_at": "2026-06-03T08:04:07+00:00"
         },
         {
           "name": "⚡ TARIF 23:59 LOYALTY",
@@ -48,7 +48,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:50:51+00:00"
+          "scraped_at": "2026-06-03T08:04:07+00:00"
         },
         {
           "name": "⚡TICKET TARIF ABONNÉ SHOTGUN",
@@ -56,7 +56,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:50:51+00:00"
+          "scraped_at": "2026-06-03T08:04:07+00:00"
         },
         {
           "name": "⚡TICKET TARIF LAST CHANCE",
@@ -64,7 +64,7 @@
           "ok": false,
           "error": "Timeout comptage ticket après 240s",
           "warning": "TIMEOUT_TICKET",
-          "scraped_at": "2026-06-03T07:50:51+00:00"
+          "scraped_at": "2026-06-03T08:04:07+00:00"
         }
       ]
     },
@@ -78,7 +78,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:46:09+00:00"
+          "scraped_at": "2026-06-03T07:59:27+00:00"
         },
         {
           "name": "KM25 Community 🏁",
@@ -86,7 +86,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:46:09+00:00"
+          "scraped_at": "2026-06-03T07:59:27+00:00"
         },
         {
           "name": "KM25 Family 🏎️",
@@ -94,7 +94,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:46:09+00:00"
+          "scraped_at": "2026-06-03T07:59:27+00:00"
         },
         {
           "name": "Late",
@@ -102,7 +102,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:46:09+00:00"
+          "scraped_at": "2026-06-03T07:59:27+00:00"
         },
         {
           "name": "Regular",
@@ -110,7 +110,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:46:09+00:00"
+          "scraped_at": "2026-06-03T07:59:27+00:00"
         }
       ]
     },
@@ -124,7 +124,7 @@
           "ok": false,
           "error": "Impossible d'ouvrir le panneau billets",
           "warning": null,
-          "scraped_at": "2026-06-03T07:46:23+00:00"
+          "scraped_at": "2026-06-03T07:59:40+00:00"
         }
       ]
     },
@@ -138,7 +138,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:43:52+00:00"
+          "scraped_at": "2026-06-03T07:57:03+00:00"
         },
         {
           "name": "Regular",
@@ -146,7 +146,7 @@
           "ok": false,
           "error": "Timeout comptage ticket après 240s",
           "warning": "TIMEOUT_TICKET",
-          "scraped_at": "2026-06-03T07:43:52+00:00"
+          "scraped_at": "2026-06-03T07:57:03+00:00"
         }
       ]
     },
@@ -160,7 +160,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:45:32+00:00"
+          "scraped_at": "2026-06-03T07:58:44+00:00"
         },
         {
           "name": "Late",
@@ -168,7 +168,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:45:32+00:00"
+          "scraped_at": "2026-06-03T07:58:44+00:00"
         },
         {
           "name": "Regular",
@@ -176,7 +176,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:45:32+00:00"
+          "scraped_at": "2026-06-03T07:58:44+00:00"
         },
         {
           "name": "Very Late",
@@ -184,7 +184,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:45:32+00:00"
+          "scraped_at": "2026-06-03T07:58:44+00:00"
         },
         {
           "name": "__unknown__",
@@ -206,7 +206,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:44:04+00:00"
+          "scraped_at": "2026-06-03T07:57:15+00:00"
         },
         {
           "name": "__unknown__",
@@ -228,7 +228,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:38:44+00:00"
+          "scraped_at": "2026-06-03T07:51:55+00:00"
         },
         {
           "name": "Prévente - Warehouse Community",
@@ -236,7 +236,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:38:44+00:00"
+          "scraped_at": "2026-06-03T07:51:55+00:00"
         },
         {
           "name": "__unknown__",
@@ -258,15 +258,15 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:45:20+00:00"
+          "scraped_at": "2026-06-03T07:58:32+00:00"
         },
         {
           "name": "Phase 2 Regular Ticket - Placement libre - Fosse/Gradin",
-          "available_count": 90,
+          "available_count": 88,
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:45:20+00:00"
+          "scraped_at": "2026-06-03T07:58:32+00:00"
         },
         {
           "name": "Phase 3 Regular Ticket - Placement libre - Fosse/Gradin",
@@ -274,7 +274,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:45:20+00:00"
+          "scraped_at": "2026-06-03T07:58:32+00:00"
         },
         {
           "name": "Tarif de groupe : 3 Billets - Phase 2 Regular Ticket - Placement libre - Fosse/Gradin",
@@ -282,7 +282,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:45:20+00:00"
+          "scraped_at": "2026-06-03T07:58:32+00:00"
         }
       ]
     },
@@ -296,7 +296,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:44:51+00:00"
+          "scraped_at": "2026-06-03T07:58:02+00:00"
         },
         {
           "name": "Phase 2 Regular Ticket",
@@ -304,7 +304,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:44:51+00:00"
+          "scraped_at": "2026-06-03T07:58:02+00:00"
         },
         {
           "name": "Phase 3 Regular Ticket",
@@ -312,7 +312,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:44:51+00:00"
+          "scraped_at": "2026-06-03T07:58:02+00:00"
         },
         {
           "name": "Tarif de groupe : 3 billets - Phase 2 Regular Ticket",
@@ -320,7 +320,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:44:51+00:00"
+          "scraped_at": "2026-06-03T07:58:02+00:00"
         }
       ]
     },
@@ -334,7 +334,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:39:11+00:00"
+          "scraped_at": "2026-06-03T07:52:20+00:00"
         },
         {
           "name": "Tarif - Unique",
@@ -342,7 +342,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:39:11+00:00"
+          "scraped_at": "2026-06-03T07:52:20+00:00"
         },
         {
           "name": "Tarif revente",
@@ -350,7 +350,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:39:11+00:00"
+          "scraped_at": "2026-06-03T07:52:20+00:00"
         },
         {
           "name": "__unknown__",
@@ -372,7 +372,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:38:57+00:00"
+          "scraped_at": "2026-06-03T07:52:05+00:00"
         },
         {
           "name": "Last chance",
@@ -380,7 +380,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:38:57+00:00"
+          "scraped_at": "2026-06-03T07:52:05+00:00"
         },
         {
           "name": "Late",
@@ -388,7 +388,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:38:57+00:00"
+          "scraped_at": "2026-06-03T07:52:05+00:00"
         },
         {
           "name": "Regular",
@@ -396,7 +396,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:38:57+00:00"
+          "scraped_at": "2026-06-03T07:52:05+00:00"
         },
         {
           "name": "Tarif revente",
@@ -404,7 +404,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:38:57+00:00"
+          "scraped_at": "2026-06-03T07:52:05+00:00"
         },
         {
           "name": "Very late",
@@ -412,7 +412,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:38:57+00:00"
+          "scraped_at": "2026-06-03T07:52:05+00:00"
         }
       ]
     },
@@ -426,7 +426,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:38:31+00:00"
+          "scraped_at": "2026-06-03T07:51:42+00:00"
         },
         {
           "name": "Late",
@@ -434,7 +434,7 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:38:31+00:00"
+          "scraped_at": "2026-06-03T07:51:42+00:00"
         },
         {
           "name": "Normal",
@@ -442,15 +442,15 @@
           "ok": true,
           "error": null,
           "warning": null,
-          "scraped_at": "2026-06-03T07:38:31+00:00"
+          "scraped_at": "2026-06-03T07:51:42+00:00"
         },
         {
           "name": "Very Late",
-          "available_count": null,
-          "ok": false,
-          "error": "Timeout comptage ticket après 240s",
-          "warning": "TIMEOUT_TICKET",
-          "scraped_at": "2026-06-03T07:38:31+00:00"
+          "available_count": 1000,
+          "ok": true,
+          "error": null,
+          "warning": "MAX_CLICKS atteint",
+          "scraped_at": "2026-06-03T07:51:42+00:00"
         },
         {
           "name": "__unknown__",
