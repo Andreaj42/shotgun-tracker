@@ -2132,6 +2132,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:19:22+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "⚡TICKET TARIF ABONNÉ SHOTGUN": [
@@ -4262,6 +4269,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:19:22+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "⚡TICKET TARIF LAST CHANCE": [
@@ -6388,6 +6402,13 @@
           },
           {
             "timestamp": "2026-06-05T11:58:39+00:00",
+            "available_count": 1000,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
+          },
+          {
+            "timestamp": "2026-06-05T12:19:22+00:00",
             "available_count": 1000,
             "ok": true,
             "error": null,
@@ -8528,6 +8549,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:20:16+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "⚡ TARIF 23:59 LOYALTY": [
@@ -10654,6 +10682,13 @@
           },
           {
             "timestamp": "2026-06-05T11:59:33+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:20:16+00:00",
             "available_count": 2,
             "ok": true,
             "error": null,
@@ -12788,6 +12823,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:20:16+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "⚡TICKET TARIF LAST CHANCE": [
@@ -14914,6 +14956,13 @@
           },
           {
             "timestamp": "2026-06-05T11:59:33+00:00",
+            "available_count": 1000,
+            "ok": true,
+            "error": null,
+            "warning": "MAX_CLICKS atteint"
+          },
+          {
+            "timestamp": "2026-06-05T12:20:16+00:00",
             "available_count": 1000,
             "ok": true,
             "error": null,
@@ -17054,6 +17103,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:19:40+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "KM25 Community 🏁": [
@@ -19180,6 +19236,13 @@
           },
           {
             "timestamp": "2026-06-05T11:58:58+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:19:39+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -21314,6 +21377,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:19:39+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Late": [
@@ -23444,6 +23514,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:19:40+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Regular": [
@@ -25570,6 +25647,13 @@
           },
           {
             "timestamp": "2026-06-05T11:58:58+00:00",
+            "available_count": 4,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:19:39+00:00",
             "available_count": 4,
             "ok": true,
             "error": null,
@@ -27710,6 +27794,13 @@
             "ok": false,
             "error": "Impossible d'ouvrir le panneau billets",
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:19:54+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Impossible d'ouvrir le panneau billets",
+            "warning": null
           }
         ]
       }
@@ -29832,6 +29923,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:15:55+00:00",
+            "available_count": 144,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Regular": [
@@ -31948,6 +32046,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:15:55+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Timeout comptage ticket après 240s",
+            "warning": "TIMEOUT_TICKET"
           }
         ],
         "__unknown__": [
@@ -34086,6 +34191,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:17:13+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Late": [
@@ -36198,6 +36310,13 @@
           },
           {
             "timestamp": "2026-06-05T11:57:49+00:00",
+            "available_count": 5,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:17:13+00:00",
             "available_count": 5,
             "ok": true,
             "error": null,
@@ -38318,6 +38437,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:17:13+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Very Late": [
@@ -40430,6 +40556,13 @@
           },
           {
             "timestamp": "2026-06-05T11:57:49+00:00",
+            "available_count": 5,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:17:13+00:00",
             "available_count": 5,
             "ok": true,
             "error": null,
@@ -42561,6 +42694,13 @@
           },
           {
             "timestamp": "2026-06-05T11:56:30+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:16:08+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -44731,6 +44871,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:10:45+00:00",
+            "available_count": 69,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Prévente - Warehouse Community": [
@@ -46864,6 +47011,13 @@
           },
           {
             "timestamp": "2026-06-05T11:55:34+00:00",
+            "available_count": 1,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:10:45+00:00",
             "available_count": 1,
             "ok": true,
             "error": null,
@@ -49013,6 +49167,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:16:55+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Phase 2 Regular Ticket - Placement libre - Fosse/Gradin": [
@@ -51139,6 +51300,13 @@
           },
           {
             "timestamp": "2026-06-05T11:57:32+00:00",
+            "available_count": 71,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:16:55+00:00",
             "available_count": 71,
             "ok": true,
             "error": null,
@@ -53273,6 +53441,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:16:55+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Tarif de groupe : 3 Billets - Phase 2 Regular Ticket - Placement libre - Fosse/Gradin": [
@@ -55399,6 +55574,13 @@
           },
           {
             "timestamp": "2026-06-05T11:57:32+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:16:55+00:00",
             "available_count": 2,
             "ok": true,
             "error": null,
@@ -57539,6 +57721,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:16:40+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Phase 2 Regular Ticket": [
@@ -59669,6 +59858,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:16:40+00:00",
+            "available_count": 118,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Phase 3 Regular Ticket": [
@@ -61795,6 +61991,13 @@
           },
           {
             "timestamp": "2026-06-05T11:57:04+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:16:40+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -63929,6 +64132,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:16:40+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ]
       }
@@ -66044,6 +66254,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:11:13+00:00",
+            "available_count": 2,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Tarif - Unique": [
@@ -68153,6 +68370,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:11:13+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Tarif Revente": [
@@ -69299,6 +69523,13 @@
           },
           {
             "timestamp": "2026-06-05T11:55:59+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:11:13+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -71520,6 +71751,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:19:00+00:00",
+            "available_count": 168,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Tarif Entrée Tardive (entrée après 3h30)": [
@@ -72747,6 +72985,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:19:00+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Tarif Normal": [
@@ -73970,6 +74215,13 @@
           },
           {
             "timestamp": "2026-06-05T11:58:15+00:00",
+            "available_count": 490,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:19:00+00:00",
             "available_count": 490,
             "ok": true,
             "error": null,
@@ -76110,6 +76362,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:10:58+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Last chance": [
@@ -78236,6 +78495,13 @@
           },
           {
             "timestamp": "2026-06-05T11:55:45+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:10:58+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -80370,6 +80636,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:10:58+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Regular": [
@@ -82496,6 +82769,13 @@
           },
           {
             "timestamp": "2026-06-05T11:55:45+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:10:58+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -84630,6 +84910,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:10:58+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Very late": [
@@ -86756,6 +87043,13 @@
           },
           {
             "timestamp": "2026-06-05T11:55:45+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:10:58+00:00",
             "available_count": 0,
             "ok": true,
             "error": null,
@@ -88905,6 +89199,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:10:31+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Late": [
@@ -91031,6 +91332,13 @@
           },
           {
             "timestamp": "2026-06-05T11:55:10+00:00",
+            "available_count": 312,
+            "ok": true,
+            "error": null,
+            "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:10:31+00:00",
             "available_count": 312,
             "ok": true,
             "error": null,
@@ -93165,6 +93473,13 @@
             "ok": true,
             "error": null,
             "warning": null
+          },
+          {
+            "timestamp": "2026-06-05T12:10:31+00:00",
+            "available_count": 0,
+            "ok": true,
+            "error": null,
+            "warning": null
           }
         ],
         "Very Late": [
@@ -95291,6 +95606,13 @@
           },
           {
             "timestamp": "2026-06-05T11:55:10+00:00",
+            "available_count": null,
+            "ok": false,
+            "error": "Timeout comptage ticket après 240s",
+            "warning": "TIMEOUT_TICKET"
+          },
+          {
+            "timestamp": "2026-06-05T12:10:31+00:00",
             "available_count": null,
             "ok": false,
             "error": "Timeout comptage ticket après 240s",
